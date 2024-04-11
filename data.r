@@ -1,0 +1,1 @@
+df <- read.csv('data.csv', header = TRUE,  sep = ' ')
