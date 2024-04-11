@@ -1,1 +1,3 @@
-df <- read.csv('data.csv', header = TRUE,  sep = ' ')
+df <- read.csv("data.csv", header = TRUE)
+df
+names(df)
