@@ -10,4 +10,4 @@ df <- read.csv("data.csv)
 ```r
 df
 ```
-<img src="T00.png" width="55%"/>
+<img src="T00.png" width="80%"/>
