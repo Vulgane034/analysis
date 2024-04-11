@@ -1,2 +1,2 @@
-# analysis
-analyse statistique de deux population
+# Analyse statistique
+Etude de deux populations
