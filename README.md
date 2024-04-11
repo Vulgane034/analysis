@@ -1,7 +1,7 @@
 # Analyse statistique
 Etude de deux populations
 
-## Chargeons notre base de donnees
+### Chargeons notre base de donnees
 
 ```r
 df <- read.csv("data.csv)
